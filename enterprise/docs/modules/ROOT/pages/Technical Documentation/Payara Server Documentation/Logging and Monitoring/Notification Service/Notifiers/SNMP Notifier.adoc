@@ -8,6 +8,13 @@ supported by a huge variety of devices, including network devices like
 routers, modems and switches, servers and in the latter years extended
 to cover IoT devices and specialized equipment connected to the cloud.
 
+[[downloads]]
+== Downloads
+
+- link:https://nexus.payara.fish/repository/payara-enterprise-downloadable-artifacts/fish/payara/extensions/notifiers/snmp-notifier-core/2.0-enterprise/snmp-notifier-core-2.0-enterprise.jar[SNMP Notifier Core 2.0-enterprise]
+- link:https://nexus.payara.fish/repository/payara-enterprise-downloadable-artifacts/fish/payara/extensions/notifiers/snmp-notifier-console-plugin/2.0-enterprise/snmp-notifier-console-plugin-2.0-enterprise.jar[SNMP Notifier Console Plugin 2.0-enterprise]
+- link:https://repo1.maven.org/maven2/org/snmp4j/snmp4j/2.5.3-payara.p1/snmp4j-2.5.3-payara.p1.jar[Dependency: SNMP4J 2.5.3-payara.p1]
+
 [[snmp-concepts]]
 == SNMP Concepts
 
