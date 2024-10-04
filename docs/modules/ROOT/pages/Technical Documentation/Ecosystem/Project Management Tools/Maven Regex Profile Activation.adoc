@@ -3,6 +3,8 @@
 
 The Maven Regex Profile Activation extension allows activating profiles by checking that a property matches a given regular expression, rather than an exact value.
 
+WARNING: The Maven Regex Profile Activation Extension is deprecated and no longer supported. This extension will not recieve future updates.
+
 [[usage]]
 == Usage
 
