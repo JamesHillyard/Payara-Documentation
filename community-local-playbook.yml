@@ -15,9 +15,12 @@ asciidoc:
     page-site-edition: 'community'
 ui:
   bundle:
-    url: https://github.com/payara/antora-ui-default/releases/download/v1.1/ui-bundle.zip
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
     snapshot: true
 runtime:
   fetch: true
 output:
     dir: ./build/community/html
+antora:
+  extensions:
+  - '@antora/lunr-extension'
